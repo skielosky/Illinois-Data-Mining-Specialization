@@ -22,5 +22,5 @@ Upon successful completion of this course, you will be able to:
 
 There is no required textbook for this class. However the following textbooks may be helpful.
 
-* [https://amzn.to/2QUR1Qk]Visualization Analysis and Design by Tamara Munzner
+* [Visualization Analysis and Design by Tamara Munzner](https://amzn.to/2QUR1Qk)
 * Information Visualization: Perception for Design (3rd Edition) by Colin Ware
