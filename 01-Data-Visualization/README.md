@@ -17,3 +17,10 @@ Upon successful completion of this course, you will be able to:
 * Visualize data when it is not numerical.
 * Use techniques for visualizing databases and data mining to help visually sort through massive datasets.
 * Analyze tasks and build visualization dashboards to provide data to support making a decision. 
+
+**Textbook and Readings**
+
+There is no required textbook for this class. However the following textbooks may be helpful.
+
+* [https://amzn.to/2QUR1Qk]Visualization Analysis and Design by Tamara Munzner
+* Information Visualization: Perception for Design (3rd Edition) by Colin Ware
