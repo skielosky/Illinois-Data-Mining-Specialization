@@ -23,4 +23,44 @@ Upon successful completion of this course, you will be able to:
 There is no required textbook for this class. However the following textbooks may be helpful.
 
 * [Visualization Analysis and Design by Tamara Munzner](https://amzn.to/2QUR1Qk)
-* Information Visualization: Perception for Design (3rd Edition) by Colin Ware
+* [Information Visualization: Perception for Design (3rd Edition) by Colin Ware](https://amzn.to/2QTRXo5)
+
+Course Outline
+===========
+
+The course consists of 4 weekly modules that focus on the following.
+**Week 1: The Computer and the Human**
+
+Key Concepts:
+
+* Introduction to visualization
+* Using computer graphics to display data
+* The model human processor and Fitts's law
+* Human visual perception and cognition
+
+**Week 2: Visualization of Numerical Data**
+
+Key Concepts:
+
+* Different kinds of visualizations and how best to apply them to data
+* Basic charts such as bar charts and scatter plots
+* More advanced visualization techniques, such as streamgraphs and parallel coordinates
+* Some elements of design and color usage 
+
+**Week 3: Visualization of Non-Numerical Data**
+
+Key Concepts:
+
+* Graphs, networks, and hierarchies
+* Layout of relational and hierarchical data, such as treemaps
+* Methods for visualizing high-dimensional data, such as principal component analysis and multidimensional scaling
+
+**Week 4: The Visualization Dashboard**
+
+Key Concepts:
+
+* Visualizing large datasets
+* Visualization of databases and data mining results
+* Visual analytics for decision support
+* Task analysis
+* Visualization dashboards
