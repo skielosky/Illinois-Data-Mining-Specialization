@@ -29,6 +29,7 @@ Course Outline
 ===========
 
 The course consists of 4 weekly modules that focus on the following.
+
 **Week 1: The Computer and the Human**
 
 Key Concepts:
